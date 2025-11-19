@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+pandas
+numpy
+librosa
+soundfile
+torch     # if you face wheel issues, install according to PyTorch site
+faster-whisper
+transformers
+nltk
+python-multipart
